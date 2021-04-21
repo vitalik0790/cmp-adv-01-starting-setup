@@ -22,7 +22,7 @@
 </template>
 
 <script>
-import TheHeader from "./components/TheHeader";
+import TheHeader from "./components/layout/TheHeader";
 import ManageGoals from "./components/ManageGoals";
 import ActiveGoals from "./components/ActiveGoals";
 
